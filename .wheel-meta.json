@@ -1,0 +1,22 @@
+{
+  "wheel_id": 468,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-120",
+  "project": "retaining-wall-contractors-geelong-planning-guide-004405708e973",
+  "parent_t1_ref": "retainingwallgeelong-159",
+  "node_role": "feeder",
+  "money_target": "retainingwallgeelong.com.au",
+  "primary_kw": "retaining wall contractors geelong planning guide",
+  "intended_url": "https://sitesau.github.io/retainingwallgeelong-120/",
+  "tier": "T2",
+  "writeback_nonce": "1a84dc24216b0182",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-contractors-geelong-common-mistakes-093e5c01eb43.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the retaining wall contractors geelong common mistakes overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
